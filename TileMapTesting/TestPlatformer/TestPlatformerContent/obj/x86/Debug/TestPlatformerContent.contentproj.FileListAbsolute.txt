@@ -1,0 +1,6 @@
+c:\users\logan\documents\visual studio 2010\Projects\TestPlatformer\TestPlatformer\TestPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Logan\Documents\My Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Logan\Documents\My Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Logan\Documents\My Dropbox\Summer 2011 Game Project\TileMapTesting\TestPlatformer\TestPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\TileMapTesting\TestPlatformer\TestPlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache

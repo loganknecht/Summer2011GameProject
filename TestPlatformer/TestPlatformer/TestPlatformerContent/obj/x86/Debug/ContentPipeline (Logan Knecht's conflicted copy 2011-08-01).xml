@@ -1,0 +1,649 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TestSprites.png</Source>
+      <Name>TestSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TestSprites.xnb</Output>
+      <Time>2011-06-20T14:37:27-07:00</Time>
+    </Item>
+    <Item>
+      <Source>LinkSpriteSheet.png</Source>
+      <Name>LinkSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\LinkSpriteSheet.xnb</Output>
+      <Time>2011-06-21T01:11:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\Square.png</Source>
+      <Name>PlatformTextures\Square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\Square.xnb</Output>
+      <Time>2011-06-22T14:02:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CollisionColor.png</Source>
+      <Name>CollisionColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\CollisionColor.xnb</Output>
+      <Time>2011-06-27T12:24:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreens\SplashScreen.png</Source>
+      <Name>SplashScreens\SplashScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\SplashScreens\SplashScreen.xnb</Output>
+      <Time>2011-07-06T12:13:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreens\CrosswindsTitle.png</Source>
+      <Name>TitleScreens\CrosswindsTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TitleScreens\CrosswindsTitle.xnb</Output>
+      <Time>2011-07-05T02:49:25-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixels\TransparentPixel.png</Source>
+      <Name>Pixels\TransparentPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\Pixels\TransparentPixel.xnb</Output>
+      <Time>2011-07-05T22:30:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Pixels\WhitePixel.png</Source>
+      <Name>Pixels\WhitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\Pixels\WhitePixel.xnb</Output>
+      <Time>2011-07-05T23:24:43-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerImages\PlaceholderPlayer.png</Source>
+      <Name>PlayerImages\PlaceholderPlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlayerImages\PlaceholderPlayer.xnb</Output>
+      <Time>2011-07-06T03:20:49-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMapImages\BasicTileSet.png</Source>
+      <Name>TileMapImages\BasicTileSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TileMapImages\BasicTileSet.xnb</Output>
+      <Time>2011-07-08T15:44:37-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMapImages\AltBasicTileSet.png</Source>
+      <Name>TileMapImages\AltBasicTileSet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TileMapImages\AltBasicTileSet.xnb</Output>
+      <Time>2011-07-11T00:22:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TestHurdle.png</Source>
+      <Name>TestHurdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TestHurdle.xnb</Output>
+      <Time>2011-07-12T15:42:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ActionButton.png</Source>
+      <Name>ActionButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\ActionButton.xnb</Output>
+      <Time>2011-07-13T22:45:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SwingRope\RopeTexture.png</Source>
+      <Name>SwingRope\RopeTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\SwingRope\RopeTexture.xnb</Output>
+      <Time>2011-07-18T21:41:30.8288179-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SwingRope\RopeGrapplePoint.png</Source>
+      <Name>SwingRope\RopeGrapplePoint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\SwingRope\RopeGrapplePoint.xnb</Output>
+      <Time>2011-07-23T02:42:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMapImages\basicBlueTile.png</Source>
+      <Name>TileMapImages\basicBlueTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TileMapImages\basicBlueTile.xnb</Output>
+      <Time>2011-07-24T13:08:41.8329478-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMapImages\basicGreenTile.png</Source>
+      <Name>TileMapImages\basicGreenTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TileMapImages\basicGreenTile.xnb</Output>
+      <Time>2011-07-22T17:30:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMapImages\basicOrangeTile.png</Source>
+      <Name>TileMapImages\basicOrangeTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TileMapImages\basicOrangeTile.xnb</Output>
+      <Time>2011-07-22T17:30:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMapImages\basicRedTile.png</Source>
+      <Name>TileMapImages\basicRedTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TileMapImages\basicRedTile.xnb</Output>
+      <Time>2011-07-22T17:30:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>TileMapImages\basicYellowTile.png</Source>
+      <Name>TileMapImages\basicYellowTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\TileMapImages\basicYellowTile.xnb</Output>
+      <Time>2011-07-22T17:30:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WaterTiles\WaterBody.png</Source>
+      <Name>WaterTiles\WaterBody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\WaterTiles\WaterBody.xnb</Output>
+      <Time>2011-07-23T14:12:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WaterTiles\WaterCrest.png</Source>
+      <Name>WaterTiles\WaterCrest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\WaterTiles\WaterCrest.xnb</Output>
+      <Time>2011-07-23T14:47:43-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\BottomGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\BottomGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\BottomGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\BottomLeftGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\BottomLeftGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\BottomLeftGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\BottomRightGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\BottomRightGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\BottomRightGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\CenterGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\CenterGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\CenterGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\LeftGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\LeftGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\LeftGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\RightGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\RightGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\RightGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\TopGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\TopGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\TopGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\TopLeftGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\TopLeftGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\TopLeftGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\OutsideGrass\TopRightGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\OutsideGrass\TopRightGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\OutsideGrass\TopRightGrass.xnb</Output>
+      <Time>2011-07-24T15:18:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ParallaxImages\Clouds.png</Source>
+      <Name>ParallaxImages\Clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\ParallaxImages\Clouds.xnb</Output>
+      <Time>2011-07-29T16:28:28.8883575-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\Springs\SonicSpring.png</Source>
+      <Name>GameObjects\Springs\SonicSpring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\GameObjects\Springs\SonicSpring.xnb</Output>
+      <Time>2011-07-26T01:25:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Treasure\TestTreasure\BlueJewel.png</Source>
+      <Name>Treasure\TestTreasure\BlueJewel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\Treasure\TestTreasure\BlueJewel.xnb</Output>
+      <Time>2011-07-28T00:36:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Treasure\TestTreasure\GoldPearl.png</Source>
+      <Name>Treasure\TestTreasure\GoldPearl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\Treasure\TestTreasure\GoldPearl.xnb</Output>
+      <Time>2011-07-28T00:36:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Treasure\TestTreasure\GreenJewel.png</Source>
+      <Name>Treasure\TestTreasure\GreenJewel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\Treasure\TestTreasure\GreenJewel.xnb</Output>
+      <Time>2011-07-28T00:36:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Treasure\TestTreasure\RedJewel.png</Source>
+      <Name>Treasure\TestTreasure\RedJewel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\Treasure\TestTreasure\RedJewel.xnb</Output>
+      <Time>2011-07-28T00:36:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\BottomInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\BottomInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\BottomInsideGrass.xnb</Output>
+      <Time>2011-07-26T18:18:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\BottomLeftInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\BottomLeftInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\BottomLeftInsideGrass.xnb</Output>
+      <Time>2011-07-26T18:18:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\BottomRightInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\BottomRightInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\BottomRightInsideGrass.xnb</Output>
+      <Time>2011-07-26T18:18:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\CenterInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\CenterInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\CenterInsideGrass.xnb</Output>
+      <Time>2011-07-26T18:18:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\CompleteInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\CompleteInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\CompleteInsideGrass.xnb</Output>
+      <Time>2011-07-26T18:18:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\LeftInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\LeftInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\LeftInsideGrass.xnb</Output>
+      <Time>2011-07-26T18:18:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\RightInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\RightInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\RightInsideGrass.xnb</Output>
+      <Time>2011-07-26T18:18:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\TopInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\TopInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\TopInsideGrass.xnb</Output>
+      <Time>2011-07-26T19:05:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\TopLeftInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\TopLeftInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\TopLeftInsideGrass.xnb</Output>
+      <Time>2011-07-26T19:04:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformTextures\GrassPlatform\InsideGrass\TopRightInsideGrass.png</Source>
+      <Name>PlatformTextures\GrassPlatform\InsideGrass\TopRightInsideGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlatformTextures\GrassPlatform\InsideGrass\TopRightInsideGrass.xnb</Output>
+      <Time>2011-07-26T19:04:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ParallaxImages\TreetopTest.png</Source>
+      <Name>ParallaxImages\TreetopTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\ParallaxImages\TreetopTest.xnb</Output>
+      <Time>2011-07-28T03:30:15-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ParallaxImages\TreeTrunkPixel.png</Source>
+      <Name>ParallaxImages\TreeTrunkPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\ParallaxImages\TreeTrunkPixel.xnb</Output>
+      <Time>2011-07-28T03:31:36-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ParallaxImages\TreeTrunkDarkPixel.png</Source>
+      <Name>ParallaxImages\TreeTrunkDarkPixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\ParallaxImages\TreeTrunkDarkPixel.xnb</Output>
+      <Time>2011-07-28T03:45:27-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\Ladders\TestLadder\TestLadderLeft.png</Source>
+      <Name>GameObjects\Ladders\TestLadder\TestLadderLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\GameObjects\Ladders\TestLadder\TestLadderLeft.xnb</Output>
+      <Time>2011-07-29T23:26:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\Ladders\TestLadder\TestLadderRung.png</Source>
+      <Name>GameObjects\Ladders\TestLadder\TestLadderRung</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\GameObjects\Ladders\TestLadder\TestLadderRung.xnb</Output>
+      <Time>2011-07-29T23:26:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameObjects\Ladders\TestLadder\TestLadderRight.png</Source>
+      <Name>GameObjects\Ladders\TestLadder\TestLadderRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\GameObjects\Ladders\TestLadder\TestLadderRight.xnb</Output>
+      <Time>2011-07-29T23:26:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerImages\CharacterOnePlaceholderRefined.png</Source>
+      <Name>PlayerImages\CharacterOnePlaceholderRefined</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlayerImages\CharacterOnePlaceholderRefined.xnb</Output>
+      <Time>2011-07-30T03:31:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerImages\CharacterTwoPlaceholderRefined.png</Source>
+      <Name>PlayerImages\CharacterTwoPlaceholderRefined</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\PlayerImages\CharacterTwoPlaceholderRefined.xnb</Output>
+      <Time>2011-08-01T03:32:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterSelectScreen\CharacterSelector.png</Source>
+      <Name>CharacterSelectScreen\CharacterSelector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\CharacterSelectScreen\CharacterSelector.xnb</Output>
+      <Time>2011-08-01T00:15:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\BetaPlatformComplete.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\BetaPlatformComplete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\BetaPlatformComplete.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\BottomBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\BottomBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\BottomBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\BottomLeftBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\BottomLeftBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\BottomLeftBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\BottomRightBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\BottomRightBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\BottomRightBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\CenterBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\CenterBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\CenterBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\LeftBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\LeftBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\LeftBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\RightBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\RightBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\RightBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\TopBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\TopBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\TopBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\TopLeftBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\TopLeftBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\TopLeftBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>8BitKO\Platforms\BetaPlatform\TopRightBetaPlatform.png</Source>
+      <Name>8BitKO\Platforms\BetaPlatform\TopRightBetaPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\8BitKO\Platforms\BetaPlatform\TopRightBetaPlatform.xnb</Output>
+      <Time>2011-08-01T11:59:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\PlaceholderFont.spritefont</Source>
+      <Name>Fonts\PlaceholderFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\Fonts\PlaceholderFont.xnb</Output>
+      <Time>2011-07-06T23:05:10-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Logan\Dropbox\Summer 2011 Game Project\TestPlatformer\TestPlatformer\TestPlatformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-24T16:45:42.8282125-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,6 @@
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\ScreenTest\ScreenTest\ScreenTest\ScreenTest\bin\x86\Debug\ScreenTest.exe
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\ScreenTest\ScreenTest\ScreenTest\ScreenTest\bin\x86\Debug\ScreenTest.pdb
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\ScreenTest\ScreenTest\ScreenTest\ScreenTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\ScreenTest\ScreenTest\ScreenTest\ScreenTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\ScreenTest\ScreenTest\ScreenTest\ScreenTest\obj\x86\Debug\ScreenTest.exe
+C:\Users\Logan\Dropbox\Summer 2011 Game Project\ScreenTest\ScreenTest\ScreenTest\ScreenTest\obj\x86\Debug\ScreenTest.pdb

@@ -1,0 +1,15 @@
+Content\TestSprites.xnb
+Content\LinkSpriteSheet.xnb
+Content\Square.xnb
+Content\CollisionColor.xnb
+Content\SplashScreens\SplashScreen.xnb
+Content\TitleScreens\CrosswindsTitle.xnb
+Content\Pixels\TransparentPixel.xnb
+Content\Pixels\WhitePixel.xnb
+Content\PlayerImages\PlaceholderPlayer.xnb
+Content\PlayerImages\PlayerPlaceholderRefined.xnb
+Content\TileMapImages\BasicTileSet.xnb
+Content\TileMapImages\AltBasicTileSet.xnb
+Content\TestHurdle.xnb
+Content\ActionButton.xnb
+Content\Fonts\PlaceholderFont.xnb
